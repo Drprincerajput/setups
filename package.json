@@ -1,0 +1,19 @@
+{
+  "name": "starter_projects",
+  "version": "1.0.0",
+  "description": "Popular frmaework with different backend and css frameworks and database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drprincerajput/setups.git"
+  },
+  "author": "Prince Rajput",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drprincerajput/setups/issues"
+  },
+  "homepage": "https://github.com/Drprincerajput/setups#readme"
+}
